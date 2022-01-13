@@ -1,4 +1,4 @@
-# Maori-English CodeSwitch Detection
+# Maori-English Code Switch Detection
 A repository containing code for model training and the models for Māori-English Code-switching detection. 
 
 ## Table of Contents
