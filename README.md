@@ -4,7 +4,7 @@ A repository containing language models and training scripts for language detect
 ## Table of Contents
 * [General Information](#general-information)
 * [Data](#data)
-* [Demonstrations](#demo)
+* [Demonstrations](#demonstrations)
 * [Sources](#sources)
 * [Kaitiakitanga License and how to cite us](#kaitiakitanga-license-and-how-to-cite-us)
 
@@ -34,7 +34,8 @@ We include the following in this repository:
 2. [Using BiLSTM for RMT corpus](Language-Detection/RMT_corpus_language_detection.ipynb)
 
 ### Code-switching Detection
-1. [Using BiLSTM with bilingual embeddings for the Hansard data](Code-Switching Detection/Code_switch_detection_end_to_end.ipynb)
+
+3. [Using BiLSTM for the Hansard data](Code-Switching Detection/Code_switch_detection_end_to_end.ipynb)
 
 
 ## Sources
