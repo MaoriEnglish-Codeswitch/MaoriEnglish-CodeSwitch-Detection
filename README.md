@@ -13,9 +13,9 @@ We include the following in this repository:
 |No.| Item | Availability |
 |---| ------------- | ------------- |
 | 1.| Training code for word embeddings.  | Available in this repo.  |
-| 2.| Training code for code-switching detection system (classfier). | Available in this repo.  | 
-| 3.| Code-switching detection (classfier) model.| Available in this repo.  | 
-| 4.| Contact for Monolingual Māori, Monolingual English, Bilingual Māori-English word embeddings. | Available upon request. Contact xx@yy.com | 
+| 2.| Sample code for language detection and code-switching detection. | Available in this repo.  | 
+| 3.| Trained language models for Code-switching detection.| Available in this repo.  | 
+| 4.| Pre-trained Monolingual Māori and Bilingual Māori-English word embeddings. | Available upon request. Contact xx@yy.com | 
 
 ## Data
 
@@ -23,9 +23,11 @@ We include the following in this repository:
 |---| ------------- | ------------- |  ------------- |    
 |[Hansard data](https://www.parliament.nz/en/pb/hansard-debates/rhr/) | 2,021,261 sentences & 36,757,230 words | formal language | word-level & sentence level language labels |
 |[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
-|[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 | informal language | Māori words are identified and labelled |
+|[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 words | informal language | Māori words are identified and labelled |
 
+## Language Detection
 
+1. [Using Google Translate](Language-Detection/google_trans_demo.ipynb)
 
 
 
