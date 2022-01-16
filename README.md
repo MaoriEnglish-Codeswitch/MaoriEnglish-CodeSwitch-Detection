@@ -4,6 +4,7 @@ A repository containing language models and training scripts for language detect
 ## Table of Contents
 * [General Information](#general-information)
 * [Data](#data)
+* [Demonstrations](#demo)
 * [Sources](#sources)
 * [Kaitiakitanga License and how to cite us](#kaitiakitanga-license-and-how-to-cite-us)
 
@@ -26,14 +27,14 @@ We include the following in this repository:
 |[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
 |[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 words | informal language | Māori words are identified and labelled |
 
-## Demos: Examples in Jupiter Notebook
+## Examples in Jupiter Notebook (Demo)
 ### Language Detection 
 
 1. [Using Google Translate for the Hansard data](Language-Detection/google_trans_demo.ipynb)
 2. [Using BiLSTM for RMT corpus](Language-Detection/RMT_corpus_language_detection.ipynb)
 
 ### Code-switching Detection
-
+1. [Using BiLSTM with bilingual embeddings for the Hansard data](Code-Switching Detection/Code_switch_detection_end_to_end.ipynb)
 
 
 ## Sources
