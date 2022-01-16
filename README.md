@@ -1,11 +1,9 @@
 # Māori-English Code Switch Detection
-A repository containing code for model training and the models for Māori-English Code-switching detection. 
+A repository containing language models and training scripts for language detection of te reo Māori, and Māori-English Code-switching detection. 
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [The Project Status](#the-project-status)
+* [Data](#data)
 * [Sources](#sources)
 * [Kaitiakitanga License and how to cite us](#kaitiakitanga-license-and-how-to-cite-us)
 
@@ -19,17 +17,17 @@ We include the following in this repository:
 | 3.| Code-switching detection (classfier) model.| Available in this repo.  | 
 | 4.| Contact for Monolingual Māori, Monolingual English, Bilingual Māori-English word embeddings. | Available upon request. Contact xx@yy.com | 
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Data
 
-## Setup
+|Data | Information | Text | Labels | 
+|---| ------------- | ------------- |  ------------- |    
+|[Hansard data](https://www.parliament.nz/en/pb/hansard-debates/rhr/) | 2,021,261 sentences & 36,757,230 words | formal language | word-level & sentence level language labels |
+|[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
+|[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 | informal language | Māori words are identified and labelled |
 
 
-## The Project Status
-We have identified the best word embeddings model and classifier for the code-switchign detection task. The next steps include making the classifier models better by incorporating language knowledge and also looking into the socio-linguistic aspects of code-switching.
-Also, the code-switching detector will be made available as a package for other researchers to use.
+
+
 
 ## Sources
 The initial developments in this work have been inspired by the work by Te Hiku media - https://github.com/TeHikuMedia/nga-tautohetohe-reo
