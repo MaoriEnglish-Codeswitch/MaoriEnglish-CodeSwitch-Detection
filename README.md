@@ -25,12 +25,11 @@ We include the following in this repository:
 |[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
 |[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 words | informal language | Māori words are identified and labelled |
 
-## Language Detection & Evaluations
+## Language Detection Jupiter Notebook Examples
 
-1. [Using Google Translate](Language-Detection/google_trans_demo.ipynb)
-2. [Using BiLSTM](Language-Detection/bilstm_Maorionlymodel-300.py)
-3. [Using CNN](Language-Detection/cnn_E300.py)
-4. [Using BERT-base](Language-Detection/bert_1minus5.py)
+1. [Using Google Translate for the Hansard data](Language-Detection/google_trans_demo.ipynb)
+2. [Using BiLSTM for RMT corpus](Language-Detection/RMT_corpus_language_detection.ipynb)
+
 
 
 
