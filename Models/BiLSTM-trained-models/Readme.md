@@ -1,3 +1,1 @@
-## Trained BiLSTM models and Tokenizers are available: 
-
- [Download Link] [BiLSTM trained Models and Tokenizers] (https://drive.google.com/file/d/1pekQukGRnmPGpXFgQBC-c8k1TtZXweBP/view?usp=sharing)
+### Trained BiLSTM models and Tokenizers are available at: [Download link](https://drive.google.com/file/uc?export=view&id=1pekQukGRnmPGpXFgQBC-c8k1TtZXweBP)
