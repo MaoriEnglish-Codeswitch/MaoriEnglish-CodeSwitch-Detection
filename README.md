@@ -25,9 +25,12 @@ We include the following in this repository:
 |[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
 |[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 words | informal language | Māori words are identified and labelled |
 
-## Language Detection
+## Language Detection & Evaluations
 
 1. [Using Google Translate](Language-Detection/google_trans_demo.ipynb)
+2. [Using BiLSTM]
+3. [Using CNN]
+4. [Using BERT-base](Language-Detection/bert_1minus5.py)
 
 
 
