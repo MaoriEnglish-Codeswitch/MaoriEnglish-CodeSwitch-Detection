@@ -28,8 +28,8 @@ We include the following in this repository:
 ## Language Detection & Evaluations
 
 1. [Using Google Translate](Language-Detection/google_trans_demo.ipynb)
-2. [Using BiLSTM]
-3. [Using CNN]
+2. [Using BiLSTM](Language-Detection/bilstm_Maorionlymodel-300.py)
+3. [Using CNN](Language-Detection/cnn_E300.py)
 4. [Using BERT-base](Language-Detection/bert_1minus5.py)
 
 
