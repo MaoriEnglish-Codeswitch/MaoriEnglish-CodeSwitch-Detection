@@ -35,7 +35,7 @@ We include the following in this repository:
 
 ### Code-switching Detection
 
-3. [Using BiLSTM for the Hansard data](Code-Switching Detection/Code_switch_detection_end_to_end.ipynb)
+3. [Using BiLSTM for the Hansard data](Code-Switching\ Detection/Code_switch_detection_end_to_end.ipynb)
 
 
 ## Sources
