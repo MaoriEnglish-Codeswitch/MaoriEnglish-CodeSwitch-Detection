@@ -4,7 +4,7 @@ A repository containing language models and training scripts for language detect
 ## Table of Contents
 * [General Information](#general-information)
 * [Data](#data)
-* [Demonstrations](#demonstrations)
+* [Examples in Jupiter Notebook (Demo)](#examples-in-jupiter-notebook-(demo))
 * [Sources](#sources)
 * [Kaitiakitanga License and how to cite us](#kaitiakitanga-license-and-how-to-cite-us)
 
@@ -13,10 +13,10 @@ We include the following in this repository:
 
 |No.| Item | Availability |
 |---| ------------- | ------------- |
-| 1.| Training code for word embeddings.  | Available in this repo.  |
-| 2.| Sample code for language detection and code-switching detection. | [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Language-Detection)  | 
-| 3.| Trained language models for Code-switching detection.| [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Models)  | 
-| 4.| Demo: Language Detection and code-switching detection using trained models.| [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Code-Switching-Detection)  | 
+| 1.| Samples of databases used for training and testing  | [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Data)  |
+| 2.| Code for Language detection on multiple databases. | [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Language-Detection)  | 
+| 3.| Code for Code-switch detection on Hansard database. | [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Code-Switching-Detection)  | 
+| 4.| Trained models for code-switch detection| [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Models)  | 
 | 5.| Pre-trained Monolingual Māori and Bilingual Māori-English word embeddings. | Available upon request. Contact xx@yy.com | 
 
 ## Data
@@ -26,6 +26,8 @@ We include the following in this repository:
 |[Hansard data](https://www.parliament.nz/en/pb/hansard-debates/rhr/) | 2,021,261 sentences & 36,757,230 words | formal language | word-level & sentence level language labels |
 |[MLT corpus](https://kiwiwords.cms.waikato.ac.nz/corpus/) | 2,500 sentences & 50,000 words | informal language | tweet level labels: relevance/irrelevance |
 |[RMT corpus](https://kiwiwords.cms.waikato.ac.nz/rmt_corpus/) | 79,018 sentences & 1,000,000 words | informal language | Māori words are identified and labelled |
+
+Samples of the data are provided in [the repo](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Data) along with a short code to understand the data structuring.
 
 ## Examples in Jupiter Notebook (Demo)
 ### Language Detection 
