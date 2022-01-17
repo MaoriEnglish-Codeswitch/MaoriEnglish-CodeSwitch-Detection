@@ -14,9 +14,9 @@ We include the following in this repository:
 |No.| Item | Availability |
 |---| ------------- | ------------- |
 | 1.| Training code for word embeddings.  | Available in this repo.  |
-| 2.| Sample code for language detection and code-switching detection. | Available in this repo.  | 
+| 2.| Sample code for language detection and code-switching detection. | [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Language-Detection)  | 
 | 3.| Trained language models for Code-switching detection.| [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Models)  | 
-| 4.| Demo: Language Detection and code-switching detection using trained models.| Available in this repo.  | 
+| 4.| Demo: Language Detection and code-switching detection using trained models.| [Available in this repo.](https://github.com/MaoriEnglish-Codeswitch/MaoriEnglish-CodeSwitch-Detection/tree/main/Code-Switching-Detection)  | 
 | 5.| Pre-trained Monolingual Māori and Bilingual Māori-English word embeddings. | Available upon request. Contact xx@yy.com | 
 
 ## Data
